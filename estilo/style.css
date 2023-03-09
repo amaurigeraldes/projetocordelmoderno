@@ -83,21 +83,21 @@ section > p {
     padding-bottom: 2em;
 }
 
-section#img01 {
+#img01 {
     background-image: url("../imagens/background001.jpg");
     background-position: right center;
 }
 
-section#img02 {
+#img02 {
     background-image: url("../imagens/background002.jpg");
 }
 
-section.normal {
+.normal {
     background-color: white;
     color: black;
 }
 
-section.imagem {
+.imagem {
     background-color: rgb(51, 51, 51);
     color: white;
     /* Colocando uma Sombra Interna na Caixa */
@@ -109,7 +109,7 @@ section.imagem {
     background-attachment: fixed;
 }
 
-section.imagem > p {
+.imagem > p {
     /* Criando uma Caixa Escura dentro das sections escuras */
     background-color: rgba(0, 0, 0, 0.514);
     /* Colocar uma sombra no texto */
