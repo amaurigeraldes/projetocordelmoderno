@@ -90,6 +90,7 @@ section > p {
 
 #img02 {
     background-image: url("../imagens/background002.jpg");
+    background-position: right center;
 }
 
 .normal {
